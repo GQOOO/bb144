@@ -13,6 +13,7 @@ public class Bb144ApplicationTests {
     public void contextLoads() {
         System.out.println("123");
         System.out.println("456");
+        System.out.println("789");
     }
 
 }
